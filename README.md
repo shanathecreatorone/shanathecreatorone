@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @shanathecreatorone
+- 👋🏾 Hi, I’m @shanathecreatorone
 - 👀 I’m interested in MuleSoft Development and creating API integrations.
 - 🌱 I’m currently learning advanced DataWeave and Connectors in MuleSoft Anypoint Platform.
 
